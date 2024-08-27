@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://c7mcx6beoxo33"]
+
+[ext_resource type="Script" path="res://Scripts/GameSys/Expirience/ExperiensceSystem.cs" id="1_ykv1k"]
+
+[node name="ExperiensceSystem" type="Node"]
+script = ExtResource("1_ykv1k")
